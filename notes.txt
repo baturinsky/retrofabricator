@@ -1,0 +1,58 @@
+= Simple guns stats =
+
+Damage
+Rate of fire
+Clip size
+Reload time
+Windup*
+Missile speed
+Missile amount
+Accuracy
+Homing
+AOE
+Secondary Missiles
+Affects
+Recoil
+
+= Affects =
+
+Freeze - slow move, slow attacks
+On fire = DOT
+Slow - slow move and attack, damage resistance
+Fast - faster move and attack, vulnerable
+Blindness - move and attack randomly
+Push - move in different patterns
+
+= Guns =
+Pistol - weak guns
+Magnum - high damage, low rof
+SMG - low damage, high rof
+Shotgun - several pellets, low rof
+Rifle - high damage, precise, low rof
+Assault rifle - powerful, balanced, high recoil
+Missile launcher
+Crossbow - slows, bleeds
+Firethrower
+
+NTTE gun - huge knockback
+Flash grenade - blinds
+Smoke grenade - create a blind area
+Frag grenade
+Vacuum grenade
+Knockback grenade
+Vortex grenade
+Random teleport area
+Backward bullets
+Caltrops
+Rolling Stone
+Berserker
+
+= Boots =
+
+Highway
+Ram
+Teleport
+Explosive teleport
+Random teleport
+Portal
+No friction
