@@ -1,0 +1,1 @@
+gcc -o main.exe -I out -I hlsrc -L hashlink -O3 -std=c11 out\main.c C:\Windows\System32\dbghelp.dll hashlink\ui.hdll hashlink\openal.hdll hashlink\fmt.hdll hashlink\sdl.hdll -llibhl
